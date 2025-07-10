@@ -2,15 +2,13 @@
 
 # 🧠 Agentic AI with LangGraph & MCP — Crash Course (Part 1)
 
-A hands-on crash course on building **Agentic AI workflows** using **LangGraph**, **LangChain**, and **Model Context Protocol (MCP)** — taught by **Krish Naik**.
-
-> 🎥 Watch the full course on [YouTube](https://youtu.be/dIb-DujRNEo)
+A hands-on crash course on building **Agentic AI workflows** using **LangGraph**, **LangChain**, and **Model Context Protocol (MCP)** 
 
 ---
 
 ## 📌 Overview
 
-This project is a step-by-step guide to building AI agents using graph-based architectures. It focuses on:
+This project focuses on how to build AI agents using graph-based architectures. It focuses on:
 
 * Using **LangGraph** to structure agent flows as graphs
 * Enhancing agents with **tools**, **memory**, and **streaming**
@@ -23,7 +21,7 @@ This project is a step-by-step guide to building AI agents using graph-based arc
 ## 🚀 Features
 
 * 🧩 Build AI workflows using LangGraph’s node/edge architecture
-* 🛠️ Integrate tools like calculators or web search into agents
+* 🛠️ Integrate tools like calculators or web search into agents using **Tavily Search API.**
 * 🧠 Add memory and context to conversations
 * 📡 Enable streaming responses
 * 🧑‍⚖️ Human feedback handling
