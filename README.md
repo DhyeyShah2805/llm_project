@@ -1,6 +1,6 @@
 ---
 
-# 🧠 Agentic AI with LangGraph & MCP — Crash Course (Part 1)
+# 🧠 Agentic AI with LangGraph & MCP
 
 A hands-on crash course on building **Agentic AI workflows** using **LangGraph**, **LangChain**, and **Model Context Protocol (MCP)** 
 
